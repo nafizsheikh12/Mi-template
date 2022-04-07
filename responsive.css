@@ -1,0 +1,9 @@
+@media only screen and (max-width: 767px) {
+.nav-link {
+  text-align:center
+}
+img.right-img {
+    display: none;
+}
+
+}
